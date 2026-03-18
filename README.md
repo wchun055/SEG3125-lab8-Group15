@@ -13,7 +13,7 @@
 ## Setup / Instructions:
 
 **Setting up dependencies:**
-1. Install npm. (https://www.npmjs.com/)
+1. If you don't have it already, install npm. (https://www.npmjs.com/)
 2. Clone repository.
 3. Through the terminal, type:
 
