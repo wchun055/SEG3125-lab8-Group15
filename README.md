@@ -22,7 +22,7 @@
 **Starting server:**
 1. In your clone repository (with npm installed), type:
 
-   ```cd jzstyles``` <- (Make sure that you are in the /jzstyles directory, not the outside repository folder.)
+   ```cd jzstyles``` <- **(IMPORTANT! Make sure that you are in the /jzstyles directory, not the outside repository folder.)**
    
 2. Next, type:
    
